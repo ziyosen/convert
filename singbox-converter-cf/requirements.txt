@@ -1,0 +1,6 @@
+# Dependensi untuk Cloudflare Pages Functions
+# Pastikan ini adalah versi yang kompatibel dengan runtime Python di Cloudflare
+# Biasanya, pustaka standar seperti json, base64, re, urllib.parse sudah tersedia.
+# Jika ada pustaka lain yang Anda gunakan, tambahkan di sini.
+# Contoh:
+# requests # Tidak diperlukan karena Cloudflare Pages Functions memiliki fetch bawaan
